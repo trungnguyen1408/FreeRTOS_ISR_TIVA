@@ -8,4 +8,4 @@
   - Nếu nút nhấn SW2 nhấn, bật led Blue, nhả nút SW2, tắt led Blue.
   - Sử dụng FreeRTOS để quản lý các tác vụ, đọc và ghi vào queue.
 
-- Sử dụng phần mềm Putty hoặc Hercules để thực hiện nhập ký tự, tốc độ baud là 115200, data 8 bit, 1 bit stop, không có bit Parity.
+- Sử dụng phần mềm Putty hoặc Hercules để thực hiện nhập ký tự, **tốc độ baud là 115200, data 8 bit, 1 bit stop, không có bit Parity**.
