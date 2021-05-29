@@ -1,0 +1,51 @@
+# FIXED
+
+FreeRTOSSource/event_groups.obj: ../FreeRTOSSource/event_groups.c
+FreeRTOSSource/event_groups.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/stdlib.h
+FreeRTOSSource/event_groups.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/_ti_config.h
+FreeRTOSSource/event_groups.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/linkage.h
+FreeRTOSSource/event_groups.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/sys/cdefs.h
+FreeRTOSSource/event_groups.obj: D:/FreeRTOS_ISR_TIVA/Include/FreeRTOS.h
+FreeRTOSSource/event_groups.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/stddef.h
+FreeRTOSSource/event_groups.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/stdint.h
+FreeRTOSSource/event_groups.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/_stdint40.h
+FreeRTOSSource/event_groups.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/sys/stdint.h
+FreeRTOSSource/event_groups.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/sys/_types.h
+FreeRTOSSource/event_groups.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/machine/_types.h
+FreeRTOSSource/event_groups.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/machine/_stdint.h
+FreeRTOSSource/event_groups.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/sys/_stdint.h
+FreeRTOSSource/event_groups.obj: D:/FreeRTOS_ISR_TIVA/Application/FreeRTOSConfig.h
+FreeRTOSSource/event_groups.obj: D:/FreeRTOS_ISR_TIVA/Include/projdefs.h
+FreeRTOSSource/event_groups.obj: D:/FreeRTOS_ISR_TIVA/Include/portable.h
+FreeRTOSSource/event_groups.obj: D:/FreeRTOS_ISR_TIVA/Include/deprecated_definitions.h
+FreeRTOSSource/event_groups.obj: D:/FreeRTOS_ISR_TIVA/FreeRTOSSource/portmacro.h
+FreeRTOSSource/event_groups.obj: D:/FreeRTOS_ISR_TIVA/Include/mpu_wrappers.h
+FreeRTOSSource/event_groups.obj: D:/FreeRTOS_ISR_TIVA/Include/task.h
+FreeRTOSSource/event_groups.obj: D:/FreeRTOS_ISR_TIVA/Include/list.h
+FreeRTOSSource/event_groups.obj: D:/FreeRTOS_ISR_TIVA/Include/timers.h
+FreeRTOSSource/event_groups.obj: D:/FreeRTOS_ISR_TIVA/Include/event_groups.h
+
+../FreeRTOSSource/event_groups.c: 
+C:/ti/ccsv7/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/stdlib.h: 
+C:/ti/ccsv7/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/_ti_config.h: 
+C:/ti/ccsv7/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/linkage.h: 
+C:/ti/ccsv7/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/sys/cdefs.h: 
+D:/FreeRTOS_ISR_TIVA/Include/FreeRTOS.h: 
+C:/ti/ccsv7/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/stddef.h: 
+C:/ti/ccsv7/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/stdint.h: 
+C:/ti/ccsv7/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/_stdint40.h: 
+C:/ti/ccsv7/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/sys/stdint.h: 
+C:/ti/ccsv7/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/sys/_types.h: 
+C:/ti/ccsv7/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/machine/_types.h: 
+C:/ti/ccsv7/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/machine/_stdint.h: 
+C:/ti/ccsv7/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/sys/_stdint.h: 
+D:/FreeRTOS_ISR_TIVA/Application/FreeRTOSConfig.h: 
+D:/FreeRTOS_ISR_TIVA/Include/projdefs.h: 
+D:/FreeRTOS_ISR_TIVA/Include/portable.h: 
+D:/FreeRTOS_ISR_TIVA/Include/deprecated_definitions.h: 
+D:/FreeRTOS_ISR_TIVA/FreeRTOSSource/portmacro.h: 
+D:/FreeRTOS_ISR_TIVA/Include/mpu_wrappers.h: 
+D:/FreeRTOS_ISR_TIVA/Include/task.h: 
+D:/FreeRTOS_ISR_TIVA/Include/list.h: 
+D:/FreeRTOS_ISR_TIVA/Include/timers.h: 
+D:/FreeRTOS_ISR_TIVA/Include/event_groups.h: 
